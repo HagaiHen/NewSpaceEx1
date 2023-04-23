@@ -8,7 +8,7 @@
 #### Sappir Bohbot - 316416429
 #### Bar Goldenberg - 209894286
 #### Hagai Hen - 313414872
-
+----
 ## Task Detailed
 
 This is task 1 in <course name>, 
